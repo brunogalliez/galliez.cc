@@ -1,33 +1,33 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
+    title: `galliez.cc`,
     name: `Narative`,
     siteUrl: `https://novela.narative.co`,
     description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `I'm a Product Designer at <a href='https://concrete.com.br/' target='blank'>Concrete</a> helping brazilian brands to stay competitive on the digital era.`,
       maxWidth: 652,
     },
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/narative`,
+        url: `https://twitter.com/brunogalliez`,
       },
       {
         name: `github`,
-        url: `https://github.com/narative`,
+        url: `https://github.com/brunogalliez`,
       },
       {
         name: `instagram`,
-        url: `https://instagram.com/narative.co`,
+        url: `https://instagram.com/brunogalliez`,
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
+        url: `https://www.linkedin.com/in/brunogalliez`,
       },
       {
         name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
+        url: `https://dribbble.com/brunogalliez`,
       },
     ],
   },
