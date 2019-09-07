@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
     title: `galliez.cc`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
+    name: `Bruno Galliez`,
+    siteUrl: `https://galliez.cc`,
     description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
-      heading: `I'm a Product Designer at <a href='https://concrete.com.br/' target='blank'>Concrete</a> helping brazilian brands to stay competitive on the digital era.`,
+      heading: `I'm a Product Designer at <a href='https://concrete.com.br/' target='blank'>Concrete</a> helping teams to enhance value for people.`,
       maxWidth: 652,
     },
     social: [

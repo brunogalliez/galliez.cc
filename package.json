@@ -9,6 +9,8 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "@emotion/core": "^10.0.17",
+    "@emotion/styled": "^10.0.17",
     "@narative/gatsby-theme-novela": "^0.6.4",
     "gatsby": "^2.13.41",
     "gatsby-plugin-manifest": "^2.2.4",
