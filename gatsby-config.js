@@ -41,7 +41,7 @@ module.exports = {
         authorsPage: false,
         sources: {
           local: true,
-          contentful: true,
+          contentful: false,
         },
       },
     },
