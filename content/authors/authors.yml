@@ -1,17 +1,16 @@
-- name: Dennis Brotzky
+- name: Bruno Galliez
   bio: |
-    Written by You. This is where your author bio lives. Share your work, your
-    joys and of course, your Twitter handle.
-  avatar: ./avatars/dennis-brotzky.jpg
+   I ♥ working on multi-disciplinary teams to build digital products that makes life better. Let's talk! bruno@galliez.cc
+  avatar: ./avatars/bruno-galliez.jpg
   featured: true
   social:
     - name: github
-      url: https://github.com
+      url: https://github.com/brunogalliez
     - name: twitter
-      url: https://github.com
+      url: https://twitter.com/brunogalliez
     - name: instagram
-      url: https://github.com
+      url: https://instagram.com/brunogalliez
     - name: dribbble
-      url: https://github.com
+      url: https://dribbble.com/brunogalliez
     - name: linkedin
-      url: https://github.com
+      url: https://linkedin.com/in/brunogalliez

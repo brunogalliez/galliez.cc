@@ -8,8 +8,8 @@ import styled from "@emotion/styled";
  */
 const Name = styled.span`
   color: ${p => p.theme.colors.accent};
-  font-weight:bold;
-  font-size:1.5em;
+  font-weight:600;
+  font-size:1.25em
 `;
 
 export default function Logo() {

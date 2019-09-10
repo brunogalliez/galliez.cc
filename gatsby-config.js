@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `galliez.cc`,
+    title: `Bruno Galliez ☾ Designer`,
     name: `Bruno Galliez`,
     siteUrl: `https://galliez.cc`,
     description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
-      heading: `I'm a Product Designer at <a href='https://concrete.com.br/' target='blank'>Concrete</a> helping teams to enhance value for people.`,
+      heading: `Designer at <a href='https://concrete.com.br/' target='blank'>Concrete</a>, based in Rio de Janeiro.`,
       maxWidth: 652,
     },
     social: [
@@ -38,10 +38,10 @@ module.exports = {
         contentPosts: "content/posts",
         contentAuthors: "content/authors",
         basePath: "/",
-        authorsPage: true,
+        authorsPage: false,
         sources: {
           local: true,
-          // contentful: true,
+          contentful: true,
         },
       },
     },
